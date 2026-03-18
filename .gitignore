@@ -1,0 +1,12 @@
+# Data and Datasets
+dataset/
+Extra/
+*.xlsx
+*.csv
+
+# Python environment/cache
+__pycache__/
+*.pyc
+
+# OS specific files
+.DS_Store
